@@ -5,6 +5,8 @@ I want to use Github as a progress bar of my learning progress. so i will upload
 I hope that someday I can code like a professional and type English without Google Translate!
 (I wrote this README without GoogleTranslate so congrats to me:) and exuse me if there was any mistake!)
 
+I Love 🍕, 💻.
+
 #Free_Culture
 
-i love 🍕, 💻.
+
